@@ -22,18 +22,6 @@ Main content area (can be customized for charts, tables, etc.)
 
 Responsive layout for desktop and mobile views
 
-🧾 Project Structure
-
-Login-Dashboard/
-├── index.html           → Login Page
-├── dashboard.html       → Dashboard Page
-├── css/
-│   └── style.css        → Styling for both pages
-├── js/
-│   └── script.js        → JavaScript for UI interaction
-└── assets/
-    └── images, icons    → Logo, avatar, or other visuals
-🖼️ Preview
 🔐 Login Page
 
 📊 Dashboard Page
