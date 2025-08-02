@@ -3,7 +3,7 @@ Welcome to Login-Dashboard UI – a clean, responsive, and modern web interface 
 
 ## 🔥 Live Website
 
-👉 [Click here to view my live site](https://https://log-in-page-dashboard.netlify.app/) 
+👉 [Click here to view my live site](https://log-in-page-dashboard.netlify.app/) 
 ---
 
 🔍 Features
