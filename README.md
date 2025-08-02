@@ -1,7 +1,10 @@
 🔐 Login-Dashboard UI
 Welcome to Login-Dashboard UI – a clean, responsive, and modern web interface that includes both a login page and a dashboard layout. Built using HTML, CSS, and JavaScript, this project is perfect for beginners learning UI/UX concepts or developers building admin panels and user interfaces.
 
-🔗 Live Site: https://log-in-page-dashboard.netlify.app/
+## 🔥 Live Website
+
+👉 [Click here to view my live site](https://https://log-in-page-dashboard.netlify.app/) 
+---
 
 🔍 Features
 🔐 Login Page
